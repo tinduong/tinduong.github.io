@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : tin's journal
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Code DotNet. Photograph Nikon.
+                      DotNet Developer. Nikon Photographer.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -11,7 +11,7 @@ remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you a
 ### Author Info ###
 author:
   name              : Tin Duong
-  image             : https://bit.ly/2KCvgVJ
+  image             : https://bit.ly/2X0kZWu
 # behance           : your_username
 # dribbble          : your_username
   email             : tinduong1809@gmail.com
