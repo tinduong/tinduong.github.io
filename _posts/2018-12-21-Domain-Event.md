@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  "Domain Event"
+title: How to undo your git failure?
+tags: [External Post, Git]
+style: fill
+color: warning
+description: Implement Domain event.
 ---
 
 There are many posts that explains very well about the benefit of using domain event. Here are a list of good reading.test
