@@ -1,7 +1,7 @@
 ---
 title: Domain Event
 tags: [DDD]
-style: border
+style: fill
 color: secondary
 description: Implement Domain event.
 ---
