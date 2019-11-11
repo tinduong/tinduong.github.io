@@ -1,8 +1,8 @@
 ---
-title: How to undo your git failure?
-tags: [External Post, Git]
-style: fill
-color: warning
+title: Domain Event
+tags: [DDD]
+style: border
+color: primary
 description: Implement Domain event.
 ---
 
