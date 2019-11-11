@@ -2,7 +2,7 @@
 title: Domain Event
 tags: [DDD]
 style: border
-color: primary
+color: secondary
 description: Implement Domain event.
 ---
 
