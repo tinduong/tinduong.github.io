@@ -1,6 +1,7 @@
 ### Site Settings ###
 title               : tin's journal
-description         : Let's write some code and break it. Of course, we will need to fix it right after that and...Repeat
+description         : >-                               # >- means to ignore newlines until "url:"
+                    Let's write some code and break it. Of course, we will need to fix it right after that and...Repeat
                       
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
