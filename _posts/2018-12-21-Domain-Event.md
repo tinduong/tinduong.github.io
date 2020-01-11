@@ -14,7 +14,7 @@ There are many posts that explains very well about the benefit of using domain e
 
 I have been looking for how the domain event works and how to implement it. There are a few posts out there and I have tried to create different implementations. This is just one way to do it
 
-## Why do we have to create more code
+## Why do we have to create more code!
 
 Here this is my personal opinion. It might take more time and effort for wiring at the beginning but we will see the huge benefit when the project grow in the long term. It encapsulates business logic from the calling client and help to extend the functionalities without modifying the a lot of existing class or module. Refer to the [Open/Close principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
 
