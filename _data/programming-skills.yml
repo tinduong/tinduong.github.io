@@ -1,11 +1,20 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
+- name: C#
   percentage: 80
-  color:
+  color: blue
 
-- name: Python
+- name: XAML
   percentage: 70
   color: dark
+  
+  - name: Typescript
+  percentage: 50
+  color: dark
+  
+  - name: Azure DevOps
+  percentage: 90
+  color: dark
+  
+  - name: Xamarin Form
+  percentage: 60
+  color: dark
+
