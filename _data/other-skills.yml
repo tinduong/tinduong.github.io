@@ -1,19 +1,11 @@
-- name: C#
-  percentage: 80
-  color: blue
-
-- name: XAML
-  percentage: 70
-  color: dark
-
-- name: Typescript
+- name: ux
   percentage: 50
-  color: dark
-  
-- name: Azure DevOps
-  percentage: 90
-  color: 
-  
-- name: Xamarin Form
+  color: green
+
+- name: Adobe Photoshop
   percentage: 60
-  color: 
+  color: dark
+
+- name: Git
+  percentage: 50
+  color: orange
