@@ -1,17 +1,9 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, UNCO Computer Science
+  from: 2011
+  to: 2014
+  description: These years are foundation of my learning. I learnt the basic of programming and started to explore this wonderful career
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Software Engineer, JBSSA, USA
+  from: 2015
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: In role of a software engineer, I work on various projects with desktop applications, MVC app, multi-tiers applications that trained me to become a full stack developer.
