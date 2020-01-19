@@ -1,7 +1,7 @@
 ---
 name: LookyLook Project
 tools: [C#, WPF, Caliburn Micro]
-image: https://photos.app.goo.gl/NVQM4nvYFXC3KEnBA
+image: https://photos.google.com/photo/AF1QipNygraIz1OivhwrIgwJELrFVcqGiKheZbYlQz0d
 description: Modern looking search in files application. 
 ---
 
