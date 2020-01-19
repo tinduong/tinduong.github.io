@@ -3,7 +3,6 @@ name: LookyLook Project
 tools: [C#, WPF, Caliburn Micro]
 image: https://photos.app.goo.gl/NVQM4nvYFXC3KEnBA
 description: Modern looking search in files application. 
-external_url: https://www.google.com
 ---
 
 # Why lookylook
