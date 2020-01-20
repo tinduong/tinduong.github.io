@@ -12,6 +12,6 @@ There are a ton of find in files applications that was built out there. Window 1
 LookyLook is built on the MVVM Framework with the most up to date UI frame (a combination of MahApp and Google Material Design) My intent is to create a simplest experience for users to look for content in multiple files without spending too much time learning how to use the tool...
 
 
-![Browse to file location](https://github.com/tinduong/tinduong.github.io/blob/master/assets/BrowseFolder.JPG)
+![Browse to file location](assets/BrowseFolder.JPG)
 
 
