@@ -1,7 +1,7 @@
 ---
 name: LookyLook Project
 tools: [C#, WPF, Caliburn Micro]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://tinduong.github.io/docs/SplashScreen.JPG
 description: Modern looking search in files application. 
 ---
 
