@@ -1,9 +1,12 @@
 ---
 name: LookyLook Project
 tools: [C#, WPF, Caliburn Micro]
+<<<<<<< HEAD
 image: https://github.com/tinduong/tinduong.github.io/blob/master/assets/SplashScreen.JPG
+=======
+image: https://photos.google.com/photo/AF1QipNygraIz1OivhwrIgwJELrFVcqGiKheZbYlQz0d
+>>>>>>> b8c37afba9adc22082a489d5ccc0af9965c0873e
 description: Modern looking search in files application. 
-external_url: https://www.google.com
 ---
 
 # Why lookylook
