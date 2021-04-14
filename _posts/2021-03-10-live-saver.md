@@ -16,7 +16,5 @@ dotnet tool install -g --ignore-failed-sources [package]
 If you have not clean your local repo for a while and you work on a project with many branches created. It's time to clean this up. I mean NOW...but Do you delete branches 1 by 1. It will work but will take forever if you have more than a few branches...
 
 Here a quick solution for window:
-```git
-git checkout develop; git remote update origin --prune; git branch -vv | Select-String -Pattern ": gone]" | % { $_.toString().Trim().Split(" ")[0]} | % {git branch -D $_}
-```
+<script src="https://gist.github.com/tinduong/718725e6957f3f5824788aa79fd66975.js"></script>
 
