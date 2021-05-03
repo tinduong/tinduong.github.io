@@ -18,3 +18,9 @@ If you have not clean your local repo for a while and you work on a project with
 Here a quick solution for window:
 <script src="https://gist.github.com/tinduong/718725e6957f3f5824788aa79fd66975.js"></script>
 
+## Certificate
+Got error that your certificate not found while running dotnet app? Try to run this command and you will will a lottery...lol
+
+```
+dotnet dev-certs https --trust
+```
