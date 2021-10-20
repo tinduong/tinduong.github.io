@@ -6,4 +6,16 @@ description: Learn 100 USCIS questions for USA civic test
 ---
 
 
-![](..\assets\images\Screenshot_2021-10-20-16-19-50.png)
+
+<img src="..\assets\images\Screenshot_2021-10-20-16-18-46.png" width="200px">
+
+<img src="..\assets\images\Screenshot_2021-10-20-16-19-50.png" width="200px">
+
+<img src="..\assets\images\Screenshot_2021-10-20-16-19-11.png" width="200px">
+
+<img src="..\assets\images\Screenshot_2021-10-20-16-19-25.png" width="200px">
+
+<img src="..\assets\images\Screenshot_2021-10-20-16-19-12.png" width="200px">
+
+<img src="..\assets\images\Screenshot_2020-05-27-13-52-08.png" width="200px">
+
