@@ -6,4 +6,4 @@ description: Learn 100 USCIS questions for USA civic test
 ---
 
 
-![alt text](https://github.com/tinduong/citizenship/blob/master/Screenshot_2021-10-20-16-18-46.png)
+![](..\assets\images\Screenshot_2021-10-20-16-19-50.png)
