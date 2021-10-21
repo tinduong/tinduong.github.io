@@ -85,11 +85,3 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 Take a quick look of your controller and now suddendly it is not a dumpster for code and you can unit test your RequestHandler and your services specifically.
-
-
-
-
-
-
-
-
