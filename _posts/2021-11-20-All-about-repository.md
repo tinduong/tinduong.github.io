@@ -1,5 +1,5 @@
 ---
-title: Segragation of Repository
+title: Segregation of Repository
 tags: [Clean architecture, DB, Repository]
 style: fill
 color: primary
