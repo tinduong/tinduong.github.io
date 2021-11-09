@@ -12,5 +12,6 @@ description: A list of good article to read.
 * [Prune your git tree](http://www.fizerkhan.com/blog/posts/Clean-up-your-local-branches-after-merge-and-delete-in-GitHub.html){:target="_blank"}
 * [lpains.net](http://lpains.net/){:target="_blank"}
 * [Scott Hanselman](https://www.hanselman.com/){:target="_blank"}
+* [Debug jest test](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/){:target="_blank"}
 
 
